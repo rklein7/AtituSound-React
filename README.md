@@ -1,2 +1,2 @@
 # AtituSound-React
-Created with CodeSandbox
+Projeto em React desenvolvido para um aplicativo de música
