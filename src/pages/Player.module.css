@@ -1,0 +1,34 @@
+.musicControl {
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  align-items: center;
+}
+
+.btnControl {
+  background: #fff;
+  border: 1px solid #818eae;
+  padding: 10px 20px;
+}
+
+.btnControl:disabled {
+  background-color: #818eae;
+}
+
+.reverse {
+  -webkit-border-top-left-radius: 20px;
+  -webkit-border-bottom-left-radius: 20px;
+  -moz-border-radius-topleft: 20px;
+  -moz-border-radius-bottomleft: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.forward {
+  -webkit-border-top-right-radius: 20px;
+  -webkit-border-bottom-right-radius: 20px;
+  -moz-border-radius-topright: 20px;
+  -moz-border-radius-bottomright: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}

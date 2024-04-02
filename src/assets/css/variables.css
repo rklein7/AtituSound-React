@@ -1,0 +1,16 @@
+:root {
+  --main-bg-color: #ebebeb;
+  --secondary-bg-color: #f93663;
+  --third-bg-color: #ffffff;
+
+  --main-font-color: #333333;
+  --secondary-font-color: #818eae;
+  --third-font-color: #ffffff;
+
+  --main-border-radius: 90px;
+  --secondary-border-radius: 34px;
+
+  --main-space: 20px;
+  --secondary-space: 46px;
+  --third-space: 70px;
+}

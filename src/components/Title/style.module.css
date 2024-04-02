@@ -1,0 +1,18 @@
+.title {
+  color: #333;
+  font-family: Lexend Deca;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  margin: 0;
+}
+
+.subtitle {
+  color: #818eae;
+  font-family: Lexend Deca;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}

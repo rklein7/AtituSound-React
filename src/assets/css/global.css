@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  background: var(--main-bg-color)
+    url(https://files.jaison.com.br/atitusound/bg.png) center bottom no-repeat;
+  font-size: 20px;
+  font-family: "Lexend Deca", sans-serif;
+  padding-bottom: var(--secondary-space);
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  background: none;
+  border: none;
+}
+
+input {
+  border: none;
+}
+
+.container {
+  margin-inline: auto;
+  max-width: 340px;
+  padding: 20px;
+}
